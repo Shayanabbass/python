@@ -1,0 +1,13 @@
+a=[12,24,76,90]
+a[1]=98
+print(a)
+b=[23,"harry",False,23.88]
+print(b[-2:])
+c=[77,56,43,90,67]
+c.sort()
+print(c)
+c.reverse()
+print(c)
+c.append(88)
+print(c)
+c.insert(66,1)
